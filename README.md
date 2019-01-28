@@ -1,5 +1,5 @@
 # dotiterm
-> Ian's [iTerm2][itermUrl] configuration (part of [dotfiles][dotfileUrl])
+> Ian's [iTerm2][itermUrl] configuration (part of [dotfiles][dotfilesUrl])
 
 <img alt="iTerm2 Screenshot" src="screenshot.png">
 
