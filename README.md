@@ -1,6 +1,8 @@
 # dotiterm
 > Ian's [iTerm2][itermUrl] configuration (part of [dotfiles][dotfileUrl])
 
+<img alt="iTerm2 Screenshot" src="screenshot.png">
+
 ## Installation
 
 ```console
