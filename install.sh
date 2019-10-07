@@ -3,5 +3,5 @@
 cp ./com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 
 if [[ $? == 0 ]]; then
-  echo "Installed iTerm2 configuration successfully."
+  printf "\n✅ Installed iTerm 2 configuration successfully.\n"
 fi
